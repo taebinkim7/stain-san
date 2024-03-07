@@ -1,0 +1,12 @@
+setup.py
+stain_san/StainSAN.py
+stain_san/__init__.py
+stain_san/stain_adaptor.py
+stain_san/stain_extractor.py
+stain_san/utils.py
+stain_san.egg-info/PKG-INFO
+stain_san.egg-info/SOURCES.txt
+stain_san.egg-info/dependency_links.txt
+stain_san.egg-info/not-zip-safe
+stain_san.egg-info/requires.txt
+stain_san.egg-info/top_level.txt

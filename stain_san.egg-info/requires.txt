@@ -1,0 +1,7 @@
+numpy
+matplotlib
+tqdm
+joblib
+scikit-image
+tensorflow
+spams

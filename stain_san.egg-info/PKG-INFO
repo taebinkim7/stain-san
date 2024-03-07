@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: stain-san
+Version: 0.0.1
+Summary: Code to reproduce Stain SAN
+Home-page: UNKNOWN
+Author: Taebin Kim
+Author-email: taebinkim@unc.edu
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
